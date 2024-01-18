@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/medium_margin"
+    tools:context=".ui.WelcomeFragment">
+
+    <TextView
+        android:id="@+id/greeting_message"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:text="Здравствуйте, 79008887766, Ваш токен 89764654643132131"/>
+
+</FrameLayout>

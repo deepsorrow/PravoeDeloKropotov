@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PravoeDeloKropotov</string>
+    <string name="enter_phone_number_text">Введите номер телефона</string>
+
+    <string name="key_1" translatable="false">1</string>
+    <string name="key_2" translatable="false">2</string>
+    <string name="key_3" translatable="false">3</string>
+    <string name="key_4" translatable="false">4</string>
+    <string name="key_5" translatable="false">5</string>
+    <string name="key_6" translatable="false">6</string>
+    <string name="key_7" translatable="false">7</string>
+    <string name="key_8" translatable="false">8</string>
+    <string name="key_9" translatable="false">9</string>
+    <string name="key_0" translatable="false">0</string>
+    <string name="phone_number_hint">+7 XXX XXX XX XX</string>
+    <string name="button_next_description">Далее</string>
+    <string name="backspace_content_description">Стереть</string>
+    <string name="watermark">Тестовое задание Правое Дело, Кропотов А.</string>
+    <string name="code_sent_text">Был отправлен одноразовый код на номер</string>
+    <string name="otp_code_hint">Код подтверждения</string>
+    <string name="go_back_content_description">Вернуться назад</string>
+    <string name="code_sent_content_description">Картинка код был отправлен</string>
+    <string name="resend_text">Отправить код повторно</string>
+    <string name="code_was_already_sent1">По номеру</string>
+    <string name="code_was_already_sent2">Уже был ранее выслан код</string>
+    <string name="countdown_timer_template">Повторно код можно будет запросить через %d</string>
+    <string name="greeting_message">Здравствуйте, «%s», Ваш токен «%s»</string>
+</resources>
